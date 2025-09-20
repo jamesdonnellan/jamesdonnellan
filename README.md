@@ -7,7 +7,7 @@
 <hr style="border: 1px solid #ccc;">
 
 <h3 align="left">About Me</h3>
-<p>I'm a results driven and hands-on Software and Electronic Engineering student heading into my 3rd year of study towards a Bachelor of Engineering Degree (Honors) at Atlantic Technological University Galway. 
+<p>I'm a results driven and hands-on Software and Electronic Engineering student in my 3rd year of study towards a Bachelor of Engineering Degree (Honors) at Atlantic Technological University Galway. 
 
 I've developed a solid foundation across multiple programming languages including Java, C/C++, Python, HTML, CSS, and JavaScript. I enjoy working across both front-end and back-end tasks. I thrive in project-based environments where I can apply what I've learned.
 

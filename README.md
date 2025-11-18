@@ -11,7 +11,6 @@
 
 I've developed a solid foundation across multiple programming languages including Java, C/C++, Python, HTML, CSS, and JavaScript. I enjoy working across both front-end and back-end tasks. I thrive in project-based environments where I can apply what I've learned.
 
-I'm currently looking for a work placement where I can continue to grow as a developer, contribute to real projects, and learn from experienced teams.</p>
 <hr style="border: 1px solid #ccc;">
 
 <h3 align="left">🔗Connect with me:</h3>

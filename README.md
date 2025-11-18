@@ -24,6 +24,7 @@ I've developed a solid foundation across multiple programming languages includin
 - IoT Smart Inhaler<br>
 - Aodh's Auto Parts (SQL)<br>
 - Aodh's Auto Parts (Java)<br>
+- Fuel Finder (Java)<br>
   
 <hr style="border: 1px solid #ccc;">
 

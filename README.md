@@ -1,7 +1,5 @@
 <h1 align="left">Hi there, I'm James! 👋</h1>
 
-<p align="left">🎓 Final Year Software and Electronic Engineering Student  |  🌍 Based in Ireland</p>
-
 <h3 align="left"> About Me</h3>
 <p>I'm a results driven and hands-on Software and Electronic Engineering student in my final year of study towards a Bachelor of Engineering Degree (Honors) at Atlantic Technological University Galway. 
 

@@ -12,14 +12,14 @@
 <p>January 2026  <b> -> </b>  August 2026 </p>
   
 <p> 
-<p> - Worked as a Software Developer Intern, contributing to both front-end and back-end development within an industry software environment. </p>
-<p> - Maintained applications and developed features using React and Python, with a focus on implementing fixes and resolving software issues.</p>
+<p> - Contributed to both front-end and back-end development within an industry software environment. </p>
+<p> - Maintained applications and features using React and Python, with a focus on implementing fixes and resolving software issues.</p>
 <p> - Investigated and debugged front-end and back-end issues using Developer Tools such as the browser tools and AWS tools.</p>
 <p> - Worked with AWS services (AWS Lambda, Amazon S3, Amazon CloudFront ,Amazon CloudWatch, Amazon API Gateway)</p>
 <p> - Worked within CI/CD workflows to support software development and deployment processes.</p>
 <p> - Created Dashboards with Grafana, utilising Telemetry metrics</p>
 <p> - Worked with Vector CANoe for automation on testing.</p>
-<p> - Gained practical experience troubleshooting issues across different parts of the software stack and collaborating within an industry development team.</p>
+<p> - Gained practical experience across different parts of the software stack and collaborating within an industry development team.</p>
 
 ---
 <h3 align="left">💻 Technologies and Tools</h3>
